@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Livzy</string>
+    <string name="title_activity_steps">Steps</string>
+    <string name="title_activity_heart_rate">Heart Rate</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_user_profile">UserProfileActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
